@@ -80,7 +80,7 @@ struct gpu_load_queue {
 };
 
 #if 1
-static unsigned int adrenoboost = 1;
+static unsigned int adrenoboost = 0;
 #endif
 
 static u64 suspend_time;
