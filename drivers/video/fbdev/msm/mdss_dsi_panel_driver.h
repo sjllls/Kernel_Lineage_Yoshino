@@ -139,8 +139,8 @@ struct incell_ctrl {
 #define HYBRID_INCELL ((bool)true)
 #define FULL_INCELL   ((bool)false)
 
-#define CHANGE_FPS_MIN 22
-#define CHANGE_FPS_MAX 240
+#define CHANGE_FPS_MIN 60
+#define CHANGE_FPS_MAX 160
 
 #define CHANGE_FPS_PORCH 2
 #define CHANGE_FPS_SEND 10
